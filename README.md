@@ -84,14 +84,14 @@ As part of the DEPI program, I worked on a team project to build a fully functio
 - **Mean Time to Detect (MTTD)**: ~5 seconds
 - **Alert Quality**: High-fidelity correlated alerts
 
-**Tech Stack**: pfSense, Snort IDS, Wazuh SIEM, Kali Linux, Windows, DVWA, VMware
+**Tech Stack**: pfSense, Snort IDS, Wazuh SIEM, Wazuh EDR, Kali Linux, Windows, DVWA, VMware
 
 ---
 
 ## 💻 Technical Skills
 
 ### Security Tools
-`Wazuh SIEM | Snort IDS | Wireshark | Nmap | Metasploit | Kali Linux | NetworkMiner | pfSense | Burp Suite`
+`Wazuh SIEM | Wazuh EDR | Snort IDS | Wireshark | Nmap | Metasploit | Kali Linux | NetworkMiner | pfSense | Burp Suite`
 
 ### Operating Systems
 `Linux | Windows`
@@ -107,20 +107,11 @@ As part of the DEPI program, I worked on a team project to build a fully functio
 - 📖 **SANS GSOC 450** (In Progress) - GIAC Security Operations
 
 **Completed:**
-- ✅ **eCIR** - Incident Response
+- ✅ **eCIR** - eLearnSecurity Certified Incident Responder
 - ✅ **CompTIA Security+** (Self-Study)
-- ✅ **CCNA** - Cisco Certified Network Associate
+- ✅ **CCNA** - Cisco Certified Network Associate (NTi)
 - ✅ **Linux Administration I (RH124)** - Maharah Tech
-- ✅ **Cybersecurity Training** - ITI
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eBitx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eBitx&theme=tokyonight&hide_border=true" alt="Streak Stats" height="170" />
-</div>
 
 ---
 
