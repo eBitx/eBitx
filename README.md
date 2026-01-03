@@ -39,8 +39,7 @@ I completed my cybersecurity training at **ITI (Information Technology Institute
 ---
 
 ## 🚀 Featured Project: Mini SOC Environment
-
-**Sep 2025 - Nov 2025 | DEPI Graduation Project**
+**[📄 View Full Project Documentation](https://drive.google.com/file/d/1nluEPR8DIy4WmIFQQJjq12vLlzt9PUn5/view?usp=sharing)**
 
 As part of the DEPI program, I worked on a team project to build a fully functional **Mini Security Operations Center (SOC)** that simulates real-world enterprise security monitoring.
 
