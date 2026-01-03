@@ -1,90 +1,101 @@
-# 👋 Hey, I'm Ebrahim | SOC Analyst
+# 👋 Hi, I'm Ebrahim Ezzat
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Threat+Hunter+%7C+Incident+Responder;Blue+Team+Operations;SIEM+%7C+IDS+%7C+Log+Analysis" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Information+Security+Analyst;SOC+Operations+%7C+Incident+Response;Cybersecurity+Enthusiast" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-SOC_Operations-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Role-Threat_Detection-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Defense-Blue_Team-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Blue_Team-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Field-Information_Security-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Learning-green?style=for-the-badge" />
 </p>
 
 ---
 
-## 🎯 Current Mission
+## 📚 About Me
 
-SOC Analyst focused on **threat detection**, **incident response**, and **defensive security operations**. Currently hunting threats and investigating alerts at DEPI's SOC, working with SIEM platforms, IDS/IPS systems, and building detection use cases for real-world attack scenarios.
+I'm a **Computer Science & Mathematics** student at Menoufia University with a focus on **information security**. Currently working as an Information Security Analyst at DEPI, where I gained hands-on experience in SOC operations, security monitoring, and incident response.
+
+I completed my cybersecurity training at **ITI (Information Technology Institute)**, where I learned the fundamentals of ethical hacking, penetration testing, and defensive security.
 
 ```bash
 $ whoami
+> CS & Math Student @ Menoufia University
 > Information Security Analyst @ DEPI
-> Building Mini SOC Lab for detection engineering
-> Studying SANS GSOC 450 & eCIR
+> Cybersecurity Trainee @ ITI (Completed)
 ```
 
 ---
 
-## 🛡️ What I Do
+## 💼 Experience
 
-### 🔍 Threat Detection & Hunting
-- Analyzing security events and alerts from SIEM (Wazuh)
-- Investigating suspicious network traffic with Wireshark & Snort IDS
-- Correlating logs from multiple sources (Windows, Linux, Firewall, Web Apps)
-- Building custom detection rules for MITRE ATT&CK techniques
+### Information Security Analyst @ DEPI
+**Jul 2025 - Dec 2025**
 
-### 🚨 Incident Response
-- Performing triage on security incidents
-- Investigating IoCs and attacker methodologies
-- Documenting incident timelines and impact assessment
-- Creating incident reports for stakeholders
+- Working in SOC operations and security monitoring
+- Performing incident detection and response using SIEM platforms
+- Conducting vulnerability assessments
+- Analyzing cyber threats and IoCs
+- Creating incident reports
 
-### 🧪 Lab Projects
-- **Mini SOC Environment**: pfSense + Snort IDS + Wazuh SIEM
-- Simulating attacks from Kali Linux and validating detections
-- Testing NIDS + EDR correlation for advanced threats
-- Mapping detections to MITRE ATT&CK framework
+### Cybersecurity Trainee @ ITI
+**Aug 2023 - Oct 2023**
+
+- Completed structured training in ethical hacking and penetration testing
+- Learned networking fundamentals, firewalls, and security controls
+- Practiced defensive security and vulnerability assessment
 
 ---
 
-## 🔧 Arsenal
+## 🚀 Projects
 
-### 🛠️ Detection & Analysis
+### Mini SOC Environment
+**Sep 2025 - Nov 2025**
+
+Built a lab environment to practice SOC operations:
+- **Tech Stack**: pfSense, Snort IDS, Wazuh SIEM, Kali Linux, Windows, DVWA
+- Implemented network segmentation and intrusion detection
+- Integrated multi-source logs into SIEM
+- Tested detection scenarios and documented findings
+- Mapped detections to MITRE ATT&CK framework
+
+---
+
+## 💻 Technical Skills
+
+### Security Tools
 ```
-Wazuh SIEM | Snort IDS | Wireshark | Zeek | Suricata
-Splunk | ELK Stack | NetworkMiner | TCPDump
+Wazuh SIEM | Snort IDS | Wireshark | Nmap | Metasploit
+Kali Linux | NetworkMiner | pfSense | Burp Suite
 ```
 
-### 🔥 Blue Team Tools
+### Operating Systems
 ```
-Sysmon | pfSense | Windows Event Logs | Auditd
-OSSEC | YARA | Sigma Rules | ClamAV
-```
-
-### ⚔️ Adversary Simulation (for detection testing)
-```
-Kali Linux | Metasploit | Nmap | Burp Suite | DVWA
+Linux | Windows | Kali Linux
 ```
 
-### 💻 Scripting & Automation
+### Programming & Scripting
 ```
-Bash | PowerShell | Python (learning) | C#
+C# | Bash | Python (learning)
 ```
 
 ---
 
 ## 🎓 Certifications & Training
 
-**Active Certifications:**
-- 🔴 **SANS GSOC 450** (In Progress) - GIAC Security Operations
-- 🔵 **eCIR** - Incident Response (Self-Study)
-- 🟢 **CompTIA Security+** (Self-Study)
-- 🟡 **CCNA** - Cisco Certified Network Associate
-- 🟣 **Linux Administration (RH124)** - Red Hat
+**Currently Studying:**
+- 📖 **SANS GSOC 450** (In Progress) - GIAC Security Operations
+- 📖 **eCIR** (Self-Study) - Incident Response
+
+**Completed:**
+- ✅ **CompTIA Security+** (Self-Study)
+- ✅ **CCNA** - Cisco Certified Network Associate
+- ✅ **Linux Administration I (RH124)** - Maharah Tech
+- ✅ **Cybersecurity Training** - ITI
 
 ---
 
-## 📊 Attack Detection Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eBitx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
@@ -93,12 +104,12 @@ Bash | PowerShell | Python (learning) | C#
 
 ---
 
-## 🔗 Connect & Collaborate
+## 🔗 Let's Connect
 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ebitx.me-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ebitx.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ebrahimezzat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ebrahimezzat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ebrahimezzat)
 [![Email](https://img.shields.io/badge/Email-ebrahim@ebitx.me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ebrahim@ebitx.me)
 
 </div>
@@ -107,7 +118,4 @@ Bash | PowerShell | Python (learning) | C#
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=eBitx&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  
-  **💡 "The best defense is a well-monitored offense"**
-  
 </div>
