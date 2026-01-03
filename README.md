@@ -47,17 +47,53 @@ $ whoami
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Project: Mini SOC Environment
 
-### Mini SOC Environment
-**Sep 2025 - Nov 2025**
+**Sep 2025 - Nov 2025 | DEPI Graduation Project**
 
-Built a lab environment to practice SOC operations:
-- **Tech Stack**: pfSense, Snort IDS, Wazuh SIEM, Kali Linux, Windows, DVWA
-- Implemented network segmentation and intrusion detection
-- Integrated multi-source logs into SIEM
-- Tested detection scenarios and documented findings
-- Mapped detections to MITRE ATT&CK framework
+As part of the DEPI program, I worked on a team project to build a fully functional **Mini Security Operations Center (SOC)** that simulates real-world enterprise security monitoring.
+
+### 🎯 Key Achievements
+
+**1. Designed Enterprise-Grade Network Architecture**
+- Implemented **3-zone network segmentation** (SIEM, Victims, Attacker)
+- Configured pfSense firewall with routing, DHCP, NAT, and firewall rules
+- Deployed Snort IDS for network-level intrusion detection
+
+**2. Built Centralized Security Monitoring**
+- Deployed Wazuh SIEM to collect and correlate logs from multiple sources
+- Integrated logs from pfSense, Windows, Linux, and web applications
+- Configured Wazuh agents for endpoint visibility
+
+**3. Developed Custom Detection Use Cases**
+- Created **3 correlated detection rules** combining NIDS + EDR:
+  - **RDP Brute Force**: Correlated Snort alerts with Windows Event ID 4625
+  - **SQL Injection**: Correlated Snort signatures with Apache access logs
+  - **XSS Attack**: Correlated network patterns with successful HTTP 200 responses
+- Achieved **100% detection coverage** with zero false positives
+
+**4. Performed Real-World Attack Simulations**
+- Executed controlled attacks from Kali Linux (RDP brute-force, SQLi, XSS, Nmap scans)
+- Validated all detections across network and endpoint layers
+- Documented complete attack timelines and incident analysis
+
+**5. Mapped Detections to MITRE ATT&CK**
+- Aligned all detected activities to MITRE ATT&CK techniques
+- Created structured threat intelligence mappings
+- Documented IOCs and incident response playbooks
+
+**6. Delivered Complete SOC Documentation**
+- Wrote 67-page comprehensive project documentation
+- Included use case development, alert triage workflows, and RCA
+- Defined SOC KPIs and maturity assessment
+
+### 📊 Results
+- **Detection Rate**: 100% (all attacks detected)
+- **False Positives**: 0
+- **Mean Time to Detect (MTTD)**: ~5 seconds
+- **Alert Quality**: High-fidelity correlated alerts
+
+**Tech Stack**: pfSense, Snort IDS, Wazuh SIEM, Kali Linux, Windows, DVWA, VMware
 
 ---
 
