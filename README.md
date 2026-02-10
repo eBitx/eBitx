@@ -102,11 +102,9 @@ As part of the DEPI program, I worked on a team project to build a fully functio
 
 ## 🎓 Certifications & Training
 
-**Currently Studying:**
-- 📖 **SANS GSOC 450** (In Progress) - GIAC Security Operations
-
 **Completed:**
-- ✅ **eCIR** - eLearnSecurity Certified Incident Responder
+- ✅  **SANS GSOC 450** (In Progress) - GIAC Security Operations
+- ✅ **eCIR v2** - eLearnSecurity Certified Incident Responder
 - ✅ **CompTIA Security+** (Self-Study)
 - ✅ **CCNA** - Cisco Certified Network Associate (NTi)
 - ✅ **Linux Administration I (RH124)** - Maharah Tech
